@@ -192,7 +192,7 @@ module.exports = {
         short_name: `b-r.io`,
         start_url: `/`,
         background_color: `#121212`,
-        theme_color: `???`,
+        theme_color: `000000`,
         display: `standalone`,
         icon: "src/images/gatsby-icon.png",
         icons : [
@@ -215,13 +215,5 @@ module.exports = {
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     `gatsby-plugin-offline`,
-    {
-      resolve: `gatsby-plugin-algolia`,
-      options: {
-        appId: process.env.GATSBY_ALGOLIA_APP_ID,
-        apiKey: process.env.ALGOLIA_ADMIN_KEY,
-        queries: require("./src/utils/algolia-queries")
-      },
-    },
   ],
 }
