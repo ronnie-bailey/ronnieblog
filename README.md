@@ -75,7 +75,7 @@ npm install -g gatsby-cli
 
 1. Install project dependencies ```npm install```. If having problems installing try with legacy peer dependencies, ```npm install --legacy-peer-deps```.
 
-2. Start Developing. Navigate into your new site’s directory and start up the local server ```gatsby develop``` 🎉.
+2. Start Developing. Navigate into your new site’s directory and start up the local server ```gatsby develop``` 🎉..
 
 See the [reference guide](https://www.gatsbyjs.com/docs/reference/gatsby-cli/) to read more on other commands you can use with the Gatsby CLI.
 
