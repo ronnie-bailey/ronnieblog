@@ -27,7 +27,7 @@
 - 📧 Getform.io contact form with easy setup.
 - 📝 Blog ready, easily add your blog posts with MDX
 - 🌗 Togglable dark mode
-- 💻 SEO ready, option to Add meta description
+- 💻 SEO ready, option to Add meta description.
 
 ## Getting Started
 
