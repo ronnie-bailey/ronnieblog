@@ -1,6 +1,7 @@
 require("dotenv").config()
 
 module.exports = {
+  pathPrefix: "/ronnieblog", // ← ADD THIS
   siteMetadata: {
     title: `Brian Ruiz`,
     author: {
